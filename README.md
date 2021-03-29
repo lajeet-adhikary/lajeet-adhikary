@@ -1,6 +1,6 @@
 ### Hi there, I'm Lajeet! 👋
 
-An **Android** turning-into **Flutter** Developer. 
+A **Software Engineer** based out of Bangalore, India. 
 
 - 🔭 I’m currently working on few Flutter projects (both personal & professional) 
 - 🌱 I’m currently learning Flutter & NodeJS
