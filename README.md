@@ -16,11 +16,11 @@ A **Software Engineer** based out of Bangalore, India.
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wannaBeNerd23&theme=tokyonight" />
 </p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=wannaBeNerd23&&style=flat-square" align="center" height='25px' />
+## LeetCode Stats
+<div align="start">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=wannaBeNerd&theme=dark)](https://github.com/KnlnKS/leetcode-stats" align="center" />
 </div>
 
-<div align="center">
-<img src="https://leetcode-stats-six.vercel.app/api?username=wannaBeNerd&theme=dark)](https://github.com/KnlnKS/leetcode-stats" align="center" height='25px' />
-</div>
-
+<!-- <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wannaBeNerd23&&style=flat-square" align="center" height='25px' />
+</div> -->
