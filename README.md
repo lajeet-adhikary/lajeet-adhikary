@@ -19,3 +19,8 @@ A **Software Engineer** based out of Bangalore, India.
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wannaBeNerd23&&style=flat-square" align="center" height='25px' />
 </div>
+
+<div align="center">
+<img src="https://leetcode-stats-six.vercel.app/api?username=wannaBeNerd&theme=dark)](https://github.com/KnlnKS/leetcode-stats" align="center" height='25px' />
+</div>
+
