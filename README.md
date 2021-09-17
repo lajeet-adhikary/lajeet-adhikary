@@ -2,12 +2,11 @@
 
 A **Software Engineer** based out of Bangalore, India. 
 
-- 🔭 I’m currently working on few Flutter projects (both personal & professional) 
-- 🌱 I’m currently learning Flutter & NodeJS
+- 🔭 I’m currently brushing up Android Advanced & Fundamental concepts
+- 🌱 I’m mostly into Full Stack Mobile Appplication Development
 - 👯 I’m looking to collaborate on Android, Flutter & NodeJS based projects
-- 🤔 I’m looking for help with **Android, Flutter, NodeJS & Ui/Ux**
-- 😄 Also intersted in **NLP** & **Machine Learning** related projects. And also worked on some of them
-- 💬 Ask me about Android, Tech Gadgets, Motor Bikes, Mobile Photography & Gaming
+- 🤔 I’m looking forward to learn Python in my near future
+- 😄 Also intersted in NLP & Machine Learning related projects. And also worked on some to create meaninigful insights
 - 😄 Pronouns: He/him
 
 ## Github Stats
