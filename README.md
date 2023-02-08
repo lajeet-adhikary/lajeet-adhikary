@@ -1,11 +1,10 @@
 ### Hi there, I'm Lajeet! 👋
 
-A **Software Engineer** based out of Bangalore, India. 
+A **Senior Software Engineer** based out of Bangalore, India. 
 
-- 🔭 I’m currently working on Android Application for a Unicorn Startup based out in Bangalore
-- 🌱 I’m mostly into Full Stack Mobile Appplication Development, specializing in Android
-- 👯 I’m looking to collaborate on Android, Flutter & NodeJS based projects
-- 😄 Also intersted in NLP & Machine Learning related/application projects. And also worked on some to create meaninigful insights
+- 🔭 Currently working on Android Application for a Unicorn Startup based out in Bangalore
+- 🌱 Mostly into Full Stack Mobile Appplication Development, specializing in Android
+- 👯 Looking to collaborate on Android, Flutter & NodeJS based projects
 - 😄 Pronouns: He/him
 
 <!-- ## Github Stats
