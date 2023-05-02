@@ -2,10 +2,13 @@
 
 A **Senior Software Engineer** based out of Bangalore, India. 
 
-- 🔭 Currently working on Android Application for a Unicorn Startup based out in Bangalore
-- 🌱 Mostly into Full Stack Mobile Appplication Development, specializing in Android
-- 👯 Looking to collaborate on Android, Flutter & NodeJS based projects
-- 😄 Pronouns: He/him
+- Currently working on Android Application for a Unicorn Startup based out in Bangalore
+- Mostly into Full Stack Mobile Appplication Development, specializing in Android
+- Looking to collaborate on Android, Flutter based projects
+- Excited about the Blockchain Development space as well (exploring it, as of now)
+- Pronouns: He/him
+
+Looking forward to contribute & connect with smart minds out here!
 
 <!-- ## Github Stats
 <p align="center">
