@@ -5,24 +5,25 @@
 
 
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <div align="left">
-        <p align="left"></p>
-        <p align="left">• Currently, looking out for Android Developer job opportunities</p>*
-        <p align="left">• Recently, worked on Android Native application in a Unicorn Startup i.e. Apna</p>
-        <p align="left">• Mostly into Full Stack Mobile Appplication Development, specializing in Android</p>
-        <p align="left">• Looking to collaborate on Android, KMP, Flutter based projects</p>
-        <p align="left">• Started learning KMP and I'm in love with it so far</p>
-        <p align="left">• Pronouns: He/him</p>        
-      </div>
-    </td>
-    <td valign="top" width="35%">
-      <p align="right"><img align="right" src= "https://github.com/wannaBeNerd23/wannaBeNerd23/assets/14135319/8bbf2520-70ef-4ed5-a70e-9d4ba2c24ca8"/></p>
-    </td>
-  </tr>
-</table>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/wannaBeNerd23/wannaBeNerd23/assets/14135319/8bbf2520-70ef-4ed5-a70e-9d4ba2c24ca8">
+</a>
+
+
+
+- 🔭 I’m currently looking out for **Android Development** Opportunities</a>
+
+- 🌱 Recently, worked on Android Native application in a Unicorn Startup (10 millions+ userbase)
+
+- 🤝 I’m available for freelancing.
+
+- 💻 Mostly into Full Stack Mobile Appplication Development, specializing in Android</a>
+
+- 👨‍💻 Looking to collaborate on Android, KMP & Flutter based projects
+
+- 💬 Started learning KMP and I'm in love with it so far
+
+
 
 
 ### Contributions:
