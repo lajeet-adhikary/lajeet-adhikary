@@ -14,8 +14,6 @@ Area of expertise:
 - Mobile Tech (Android, Kotlin, Java, Compose, Flutter, iOS)
 - Building teams
 - Driving feature efforts across teams (from product specs, dev, qa & release)
-- Product & tech discussions with external partners
-- Training & mentorship
 
 Currently:
 - Actively looking out for Mobile Dev opportunities
