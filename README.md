@@ -1,8 +1,6 @@
 ![lajeet_android_dev](https://github.com/wannaBeNerd23/wannaBeNerd23/assets/14135319/563cba19-bd51-4773-8506-eae8d8a18597)
 
 <h1 align="center">Hi there 👋, I'm Lajeet</h1>
-<h3 align="center">Senior Mobile App Engineer based out of Bangalore, India</h3>
-
 
 
 <a target="_blank" align="center">
@@ -10,46 +8,20 @@
 </a>
 
 
+Mobile App Developer with around 8 years in the tech industry
 
-- 🔭 I’m currently looking out for **Android Development** Opportunities</a>
+Area of expertise:
+- Mobile Tech (Android, Kotlin, Java, Compose, Flutter, iOS)
+- Building teams
+- Driving feature efforts across teams (from product specs, dev, qa & release)
+- Product & tech discussions with external partners
+- Training & mentorship
 
-- 🌱 Recently, worked on Android Native application in a Unicorn Startup (10 millions+ userbase)
+Currently:
+- Actively looking out for Mobile Dev opportunities
+- Deep-diving into Compose + KMP
+- Catch up with like-minded folks from the industry and expand my horizon
 
-- 🤝 I’m available for freelancing.
-
-- 💻 Mostly into Full Stack Mobile Appplication Development, specializing in Android</a>
-
-- 👨‍💻 Looking to collaborate on Android, KMP & Flutter based projects
-
-- 💬 Started learning KMP and I'm in love with it so far
-
-
-
-
-### Contributions:
-
-#### Apna
-
-#### YourStory
-
-#### Get My Parking
-
-#### Rizort
-
-#### VoyageUp
-
-
-<!-- ## Github Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wannaBeNerd23&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wannaBeNerd23&theme=tokyonight" />
-</p> -->
-
-<!-- ## LeetCode Stats
-<div align="start">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=wannaBeNerd&theme=dark)](https://github.com/KnlnKS/leetcode-stats" align="center" />
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wannaBeNerd23&&style=flat-square" align="center" height='25px' />
-</div> -->
+Plan of Actions:
+- Clone some top-based product apps and iteratively learn
+- Build some utility apps for ease of personal use, once stable open it for public (alpha, beta, test, production)
